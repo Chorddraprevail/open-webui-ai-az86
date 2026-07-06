@@ -1,4 +1,4 @@
-# 
+# Élite Open WebUI scripts. Con computación en el borde y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
